@@ -1,4 +1,4 @@
-module github.com/wzyjerry/mc-diamond-calc
+module github.com/wzyjerry/mcalc
 
 go 1.16
 
